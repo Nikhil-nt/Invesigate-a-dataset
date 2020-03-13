@@ -10,6 +10,12 @@ The follwoing are the steps taken to complete the project
 * Step Three - Analyzed the data
 * Step Four - Shared my findings
 
+## Questions Asked:
+* Which genres are most popular from year to year?
+* What kind of properties are associated with movies of high revenues?
+* Who is the highest grossing director based on revenue?
+* Who is the highest grossing actor based on revenue?
+
 ## Tools Required
 * pandas
 * NumPy
